@@ -16,3 +16,8 @@
 
 " 卸载/禁用~/.vimrc里的默认插件
 " UnPlug 'chxuan/prepare-code'
+
+Plug 'junegunn/fzf.vim'
+Plug 'airblade/vim-gitgutter'
+Plug 'christoomey/vim-system-copy'
+" Plug 'kamykn/spelunker.vim'
