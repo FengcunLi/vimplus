@@ -20,4 +20,5 @@
 Plug 'junegunn/fzf.vim'
 Plug 'airblade/vim-gitgutter'
 Plug 'christoomey/vim-system-copy'
+Plug 'rhysd/vim-clang-format'
 " Plug 'kamykn/spelunker.vim'
